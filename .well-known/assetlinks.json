@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hangulk.app",
+    "sha256_cert_fingerprints": [
+      "AB:53:7E:67:8E:10:DC:E7:7F:7C:DE:A7:7F:BA:22:78:30:E4:91:B6:FD:37:ED:14:64:67:32:FA:41:01:D1:4E"
+    ]
+  }
+}]
